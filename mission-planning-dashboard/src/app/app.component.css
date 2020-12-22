@@ -1,4 +1,20 @@
 .box {
     display: flex;
     padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: slategray;
+    border: 2px blue solid; 
  }
+
+  /* #crew {
+    border: 2px blue solid; 
+ }
+
+ #experiment {
+    border: 2px blue solid;
+ }
+
+ #equipment{
+    border: 2px blue solid; 
+ }  */
